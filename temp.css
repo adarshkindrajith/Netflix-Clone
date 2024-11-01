@@ -1,0 +1,55 @@
+.container h1{
+    font-size: 80px;
+
+
+}
+header{
+    background-color: aquamarine;
+}
+body{
+    background-color:rgb(108, 151, 64)
+}
+@media screen and (max-width: 766px){
+
+    .container h1{
+        font-size: 50px;
+    
+    }
+    header{
+        background-color:blanchedalmond;
+    }
+    body{
+        background-color:rgb(64, 131, 151)
+    }
+
+
+}
+@media screen and (max-width: 426px){
+    
+    .container h1{
+        font-size: 30px;
+    
+    }
+}
+
+@media screen and (max-width: 360px){
+    
+    .container h1{
+        font-size: 20px;
+    
+    }
+}
+@media screen and (max-width: 346px){
+    
+    .container h1{
+        font-size: 30px;
+    
+    }
+}
+@media screen and (max-width: 310px){
+    
+    .container h1{
+        font-size: 10px;
+    
+    }
+}
